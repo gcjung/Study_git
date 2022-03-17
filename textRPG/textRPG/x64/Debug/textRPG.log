@@ -1,0 +1,3 @@
+﻿  game.cpp
+C:\VisualStudio\textRPG\textRPG\game.cpp(1695,9): warning C4102: 'defalut': 참조되지 않은 레이블입니다.
+  textRPG.vcxproj -> C:\VisualStudio\textRPG\x64\Debug\textRPG.exe
